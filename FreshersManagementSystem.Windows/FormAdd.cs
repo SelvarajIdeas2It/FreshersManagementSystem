@@ -30,7 +30,7 @@ namespace FreshersManagementSystem.Windows
         }
 
         /// <summary>
-        /// parameterized constructor for initialize an form create with a fresher
+        /// Parameterized constructor for initialize an add form with fresher details for update
         /// </summary>
         /// <param name="fresherToUpdate">The fresher who want to update from here</param>
         public FormAdd(Fresher fresherToUpdate)
