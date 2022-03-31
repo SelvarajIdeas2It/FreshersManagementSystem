@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\obj\Debug\FreshersManagementSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\obj\Debug\FreshersManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\obj\Debug\FreshersManagementSystem.DataAccessManager.dll
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\obj\Debug\FreshersManagementSystem.DataAccessManager.pdb
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\bin\Debug\FreshersManagementSystem.DataAccessManager.dll.config
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\bin\Debug\FreshersManagementSystem.DataAccessManager.dll
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\bin\Debug\FreshersManagementSystem.DataAccessManager.pdb
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\bin\Debug\FreshersManagementSystem.Model.dll
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\bin\Debug\FreshersManagementSystem.Model.pdb
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.DataAccessManager\obj\Debug\FreshersManagementSystem.DataAccess.csproj.CopyComplete

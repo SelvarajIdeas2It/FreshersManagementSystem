@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.DataAccessManager\\FreshersManagementSystem.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.DataAccessManager\\FreshersManagementSystem.DataAccess.csproj",
+        "projectName": "FreshersManagementSystem.DataAccess",
+        "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.DataAccessManager\\FreshersManagementSystem.DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj",
+        "projectName": "FreshersManagementSystem.Model",
+        "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows.csproj",
+        "projectName": "FreshersManagementSystem.Windows",
+        "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Windows\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.DataAccessManager\\FreshersManagementSystem.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.DataAccessManager\\FreshersManagementSystem.DataAccess.csproj"
+              },
+              "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Music\\Windows Application_DB\\FreshersManagementSystem.Windows\\FreshersManagementSystem.Model\\FreshersManagementSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

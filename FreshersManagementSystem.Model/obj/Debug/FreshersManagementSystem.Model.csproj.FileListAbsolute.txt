@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\bin\Debug\FreshersManagementSystem.Model.dll
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\bin\Debug\FreshersManagementSystem.Model.pdb
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\obj\Debug\FreshersManagementSystem.Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\obj\Debug\FreshersManagementSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\obj\Debug\FreshersManagementSystem.Model.dll
+C:\Users\Lenovo\Music\Windows Application_DB\FreshersManagementSystem.Windows\FreshersManagementSystem.Model\obj\Debug\FreshersManagementSystem.Model.pdb
