@@ -194,6 +194,7 @@ namespace FreshersManagementSystem.Windows
 
         /// <summary>
         /// Gets updated details of fresher and update updated frehsers details
+        /// 
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
